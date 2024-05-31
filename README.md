@@ -119,6 +119,40 @@ Need to display the graphic in `display`.
     Use the `blinn phong` to calculte the direction light.<br>
     Use the `Gourand Shading` to rendering.
 
+## Figure
+```
+./HW0 lab4A.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4A-1.png">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4A-2.png">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4A-3.png">
+</p>
+
+```
+./HW0 lab4B.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4B-1.png">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4B-2.png">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4B-3.png">
+</p>
+
+```
+./HW0 lab4C.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4C.png">
+</p>
+
+```
+./HW0 lab4D.in
+```
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4D-1.png">
+    <img src="https://github.com/ChenYingShan1114/Zbuffer_and_Shading/blob/db13462c9f0afbaabd0083f695a7cf96ce67018d/figure/lab4D-2.png">
+</p>
+
 ## Libraries
 * ### C++
 ```
